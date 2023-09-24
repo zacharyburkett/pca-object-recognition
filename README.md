@@ -8,7 +8,7 @@ To improve segmentation and extend foreground separation to object class detecti
 
 Although similar in approach to examples in the paper, this methodology appears to increase output quality.
 
-This repo is accompanied by a blog post on my site which you can find [here](https://zburkett.io/ai/2023/09/23/pca-object-detection.html) :)
+This repo is accompanied by a blog post on my site which you can find [here](https://zburkett.io/ai/2023/09/24/pca-object-detection.html) :)
 
 ## Installation and Setup
 

@@ -8,6 +8,8 @@ To improve segmentation and extend foreground separation to object class detecti
 
 Although similar in approach to examples in the paper, this methodology appears to increase output quality.
 
+This repo is accompanied by a blog post on my site which you can find [here](https://zburkett.io/ai/2023/09/23/pca-object-detection.html) :)
+
 ## Installation and Setup
 
 The example code can be found in the `notebook.ipynb` file. The notebook should install the necessary dependencies for you, but you can also run `pip install requirements.txt` yourself manually.

@@ -12,7 +12,7 @@ This repo is accompanied by a blog post on my site which you can find [here](htt
 
 ## Installation and Setup
 
-The example code can be found in the `notebook.ipynb` file. The notebook should install the necessary dependencies for you, but you can also run `pip install requirements.txt` yourself manually.
+The example code can be found in the `notebook.ipynb` file. The notebook should install the necessary dependencies for you, but you can also run `pip install -r requirements.txt` yourself manually.
 
 This code does require a CUDA capable device. During local testing I was able to fit everything onto an RTX 4090.
 
